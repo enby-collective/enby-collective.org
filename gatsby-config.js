@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://enby-collective.org/",
     title: "Enby Collective by Parity emplyees",
-    author: `Achim & Domonique`,
+    author: `Achim & Dominique`,
     description: "Your collective running Kusama & Polkadot Validators",
   },
   plugins: [
